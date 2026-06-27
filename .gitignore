@@ -1,0 +1,23 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+
+# Environment Variables (NEVER UPLOAD THESE)
+.env
+backend/.env
+frontend/.env
+
+# Databases & Generated Code
+backend/chats.db
+backend/raw_code_dump.txt
+backend/debug_dump.txt
+
+# OS Files
+.DS_Store
+Thumbs.db

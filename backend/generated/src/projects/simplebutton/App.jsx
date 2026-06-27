@@ -1,0 +1,1 @@
+export default function App() { return ( <HeroButton>Click me!</HeroButton> ); }
